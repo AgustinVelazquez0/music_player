@@ -14,6 +14,13 @@ const allSongs = [
     src: "https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3",
   },
   {
+    id: 10, // Asegúrate de que el ID sea único
+    title: "Andy Techno", // Nombre que aparecerá en el reproductor
+    artist: "Yo mismo", // Nombre del artista
+    duration: "4:00", // Duración de la canción (puede ser estimada)
+    src: "Music_myself/Andy-technomp3.mp3", // Ruta a la canción
+  },
+  {
     id: 1,
     title: "Can't Stay Down",
     artist: "Quincy Larson",
