@@ -14,11 +14,11 @@ const allSongs = [
     src: "https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3",
   },
   {
-    id: 10, // Asegúrate de que el ID sea único
-    title: "Andy Techno", // Nombre que aparecerá en el reproductor
-    artist: "Falopa Andy", // Nombre del artista
-    duration: "4:00", // Duración de la canción (puede ser estimada)
-    src: "Music_myself/Andy-technomp3.mp3", // Ruta a la canción
+    id: 10,
+    title: "Andy Techno",
+    artist: "Falopa Andy",
+    duration: "4:00",
+    src: "Music_myself/Andy-technomp3.mp3",
   },
   {
     id: 1,
